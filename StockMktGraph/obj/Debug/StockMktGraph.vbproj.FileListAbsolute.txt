@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\ResolveAssemblyReference.cache
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.Form1.resources
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.Resources.resources
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.vbproj.GenerateResource.Cache
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\bin\Debug\StockMktGraph.exe
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\bin\Debug\StockMktGraph.pdb
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\bin\Debug\StockMktGraph.xml
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.exe
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.xml
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.pdb
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\bin\Debug\en-US\StockMktGraph.resources.dll
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.Form1.en-US.resources
+D:\VisualStudioProjects\StockMktGraph\StockMktGraph\obj\Debug\en-US\StockMktGraph.resources.dll
+D:\VisualStudioProjects\Windows\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.exe
+D:\VisualStudioProjects\Windows\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.xml
+D:\VisualStudioProjects\Windows\StockMktGraph\StockMktGraph\obj\Debug\StockMktGraph.pdb
